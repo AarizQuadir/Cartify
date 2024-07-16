@@ -5,9 +5,13 @@
 including:
 
 React Hooks: Utilize hooks such as useState, useEffect, and others to manage state and side effects.
+
 React Router: Implement navigation and routing to create a multi-page user experience.
+
 useState Hook: Manage component-level state effectively.
+
 Context API: Provide and consume global state across the application using React's Context API.
+
 Cartify is an excellent example of how to leverage the power of React.js to build a dynamic and user-friendly frontend for a website.
 
 link:- https://aarizquadir.github.io/Cartify/
